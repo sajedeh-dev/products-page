@@ -5,6 +5,12 @@ This project demonstrates a simple e-commerce interface with basic filtering and
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to see it live](https://sajedeh-dev.github.io/products-page/)
+
+---
+
 ## ✨ Features
 
 - 🔍 Search products by name
